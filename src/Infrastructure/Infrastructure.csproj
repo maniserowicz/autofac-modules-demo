@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Composition\ExecutorsModule.cs" />
     <Compile Include="IDetermineInfrastructureAssembly.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
